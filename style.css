@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+.contaner {
+  color: #494949;
+  font-size: 18px;
+  line-height: 1.6;
+  font-weight: lighter;
+  font-family: 'Lora', serif;
+}
+
+.banner {
+  background-image: url("https://source.unsplash.com/random/1000x500");
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+  background-color: rgba(0,0,0,0.1);
+}
+
+.center_text {
+  padding: 0 20%;
+}
+
+.banner > h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.banner > p {
+  font-style: italic;
+  font-weight: lighter;
+  opacity: 0.8;
+  font-size: 30px;
+}
+
+.text_box {
+  padding: 0 20%;
+}
+
+.text_box > h3 {
+  color: #A0A0A0;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 23px;
+}
+
+
